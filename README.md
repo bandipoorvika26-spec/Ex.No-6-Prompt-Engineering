@@ -14,3 +14,4 @@ The aim is to understand how to request help from AI tools for tasks like writin
 
 
 Result: 
+[PE.Ex.06.pdf](https://github.com/user-attachments/files/28622221/PE.Ex.06.pdf)
